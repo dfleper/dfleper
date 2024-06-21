@@ -1,10 +1,17 @@
 ### Hi there 👋🏻
 
-### Have fun coding!!!👨🏻‍💻
+### Have fun coding!!! 👨🏻‍💻 
+<br>
 
 ![](https://komarev.com/ghpvc/?username=dfleper&label=PROFILE+VIEWS&style=plastic&color=blueviolet)
 
-#### This repository is a test laboratory for understanding certain concepts. 
+### This repository is a test laboratory for understanding certain concepts. 
+
+### 🛠 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=python,java,js,html,css,mysql,postgres,unity,cs,angular)](https://skillicons.dev)
+
+### GitHub Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dfleper&theme=blue-green)![](https://github-readme-stats.vercel.app/api?username=dfleper&theme=blue-green)
 
 ### 🖖🏻 Long Life and Prosper.
 

@@ -10,7 +10,7 @@
 ### 🛠 Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,mysql,postgres,unity,cs,angular,docker,vscode,linux,git,github)](https://github.com/dfleper?tab=repositories)
 
-### GitHub Stats
+### 🛠 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dfleper&theme=blue-green)![](https://github-readme-stats.vercel.app/api?username=dfleper&theme=blue-green)
 
 <a href="https://github.com/dfleper/" target="_blank">

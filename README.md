@@ -8,7 +8,7 @@
 ### This repository is a test laboratory for understanding certain concepts. 
 
 ### 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,mysql,postgres,unity,cs,angular,docker,vscode,linux,git,github,figma)](https://github.com/dfleper?tab=repositories)
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,mysql,postgres,unity,cs,angular,docker,vscode,eclipse,linux,ubuntu,mint,git,github,figma,firebase)](https://github.com/dfleper?tab=repositories)
 
 ### 🛠 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dfleper&theme=blue-green)![](https://github-readme-stats.vercel.app/api?username=dfleper&theme=blue-green)

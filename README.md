@@ -1,3 +1,110 @@
+<!-- Banner superior (si quieres uno personalizado, te lo genero como imagen real) -->
+<h1 align="center">👋 Hola, soy <strong>Domingo</strong> — Estudiante de Desarrollo Web</h1>
+<p align="center">💻 Apasionado por crear aplicaciones web modernas, estables y bien estructuradas.</p>
+
+---
+
+## 🧩 Stack Tecnológico (visual)
+
+<p align="center">
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=java,spring,maven" height="55"/>
+  <!-- DB -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" height="55"/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github" height="55"/>
+</p>
+
+---
+
+## 🚀 Tecnologías principales
+
+- **Backend:** Java 17 · Spring Boot · Spring Security · Spring MVC · JPA/Hibernate  
+- **BBDD:** MariaDB 12.x · Flyway  
+- **Frontend:** HTML/CSS · Bootstrap · JavaScript · Thymeleaf  
+- **Dev Tools:** Git · GitHub Projects · Maven · Tomcat WAR  
+- **Calidad / Seguridad:** Validaciones, OWASP, APIs documentadas con Swagger/OpenAPI
+
+---
+
+## 📊 Mis estadísticas como desarrollador
+
+<div align="center">
+
+### 🔥 Lenguajes más usados
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfleper&layout=compact&theme=tokyonight&langs_count=6" height="165"/>
+
+### 📈 Actividad general
+<img src="https://github-readme-stats.vercel.app/api?username=dfleper&show_icons=true&theme=tokyonight" height="165"/>
+
+### ⚡ Racha de contribuciones
+<img src="https://streak-stats.demolab.com?user=dfleper&theme=tokyonight&hide_border=false" height="165"/>
+
+</div>
+
+---
+
+## 🛠️ Cómo trabajo
+
+- ✔ Código limpio y estructurado en capas (Controller → Service → Repository → Domain)  
+- ✔ Migraciones **Flyway** para mantener una BD consistente  
+- ✔ Commits claros y ramas `feature/*`  
+- ✔ Primero backend sólido → luego frontend visual  
+- ✔ Documentación siempre actualizada  
+- ✔ Planificación con **GitHub Projects** (Kanban)
+
+---
+
+## 📚 En qué estoy mejorando ahora mismo
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JUnit-Testing-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spring_Security-Advanced-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/UX%20%2F%20UI-Mejorando-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Arquitectura-Limpia-orange?style=for-the-badge"/>
+</p>
+
+---
+
+## 🔧 Otras áreas que me interesan
+
+- Electrónica  
+- Seguridad informática (OWASP)  
+- Optimización de BBDD y consultas SQL  
+- Diseño de interfaces y experiencia de usuario  
+- Automatización y productividad
+
+---
+
+## ⭐ Mis valores como desarrollador
+
+- Aprender rápido  
+- Ser constante  
+- Trabajar con detalle  
+- Buscar calidad aunque esté empezando  
+- Poner cariño en cada proyecto
+
+---
+
+## 📬 Contacto
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-dfleper-181717?style=for-the-badge&logo=github)](https://github.com/dfleper)  
+[![Email](https://img.shields.io/badge/Email-Enviar%20correo-red?style=for-the-badge&logo=gmail)](mailto:TU_EMAIL_AQUÍ)
+
+</div>
+
+---
+
+### 🙌 Gracias por visitar mi perfil
+<p align="center">⭐ Si te gusta cómo trabajo, marca algún repo con estrella :)</p>
+
+
+
+
 ### Hi there 👋🏻
 
 ### Have fun coding!!! 👨🏻‍💻 

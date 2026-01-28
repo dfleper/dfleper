@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://svelsys-demo.vercel.app/" target="_blank">
-    <img src="assets/start-button.png" alt="START" width="420">
+    <img src="assets/start_button.png" alt="START" width="320">
   </a>
   <br>
   <sub>⚠️ MASTER START — PULSADOR PRINCIPAL</sub>

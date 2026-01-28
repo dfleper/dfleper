@@ -2,7 +2,9 @@
 <p align="center">💻 Desarrollador de Software | Construyendo futuro con cada línea de código</p>
 
 <p align="center">
-  <a href="https://svelsys-demo.vercel.app/" target="_blank">
+  <a href="https://svelsys-demo.vercel.app/"
+     target="_blank"
+     rel="noopener noreferrer">
     <img src="assets/start_button.png" alt="START" width="320">
   </a>
   <br>

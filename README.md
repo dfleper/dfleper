@@ -1,68 +1,69 @@
-<h1 align="center">👋 Hola, soy <strong>Domingo</strong></h1>
-<p align="center">💻 Desarrollador | Construyendo futuro con cada línea de código</p>
+<h2 align="center">👋 Hola, soy <strong>Domingo</strong></h2>
+<p align="center">💻 Desarrollador de Software | Construyendo futuro con cada línea de código</p>
 
 ---
 
-# 🧩 Stack Tecnológico
+## 🧩 Stack Tecnológico
 
-## 🔥 Backend
+### 🔥 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="55"/>
-  <img src="https://skillicons.dev/icons?i=spring" height="55"/>
-  <img src="https://skillicons.dev/icons?i=hibernate" height="55"/>
-  <img src="https://skillicons.dev/icons?i=maven" height="55"/>
-  <img src="https://skillicons.dev/icons?i=cs" height="55"/>
+  <img src="https://skillicons.dev/icons?i=java" height="40"/>
+  <img src="https://skillicons.dev/icons?i=spring" height="40"/>
+  <img src="https://skillicons.dev/icons?i=hibernate" height="40"/>
+  <img src="https://skillicons.dev/icons?i=maven" height="40"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="40"/>
 </p>
 
 ---
 
-## 🛢 Base de Datos
+### 🛢 Base de Datos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="55"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
 </p>
 
 ---
 
-## 🎨 Frontend
+### 🎨 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="55"/>
-  <img src="https://skillicons.dev/icons?i=css" height="55"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="55"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="55"/>
-  <img src="https://skillicons.dev/icons?i=js" height="55"/>
+  <img src="https://skillicons.dev/icons?i=html" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+  <img src="https://skillicons.dev/icons?i=js" height="40"/>
 </p>
 
 ---
 
-## 🧰 Tools del desarrollador
+### 🧰 Tools del desarrollador
+
 <p align="center">
-  <!-- Control de versiones -->
-  <img src="https://skillicons.dev/icons?i=git" height="55"/>
-  <img src="https://skillicons.dev/icons?i=github" height="55"/>
-  <img src="https://skillicons.dev/icons?i=gitlab" height="55"/>
+  <!-- CONTROL DE VERSIONES -->
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40"/>
 
-  <!-- Entorno / SO -->
-  <img src="https://skillicons.dev/icons?i=linux" height="55"/>
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="55"/>
-  <img src="https://skillicons.dev/icons?i=mint" height="55"/>
+  <!-- ENTORNO / SO -->
+  <img src="https://skillicons.dev/icons?i=linux" height="40"/>
+  <img src="https://skillicons.dev/icons?i=ubuntu" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mint" height="40"/>
 
-  <!-- IDE / Editor -->
-  <img src="https://skillicons.dev/icons?i=eclipse" height="55"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="55"/>
+  <!-- IDE / EDITORES -->
+  <img src="https://skillicons.dev/icons?i=eclipse" height="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
 
-  <!-- APIs / Diseño -->
-  <img src="https://skillicons.dev/icons?i=postman" height="55"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="55"/>
+  <!-- APIs / DISEÑO -->
+  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="40"/>
 
-  <!-- DevOps -->
-  <img src="https://skillicons.dev/icons?i=docker" height="55"/>
-  <img src="https://skillicons.dev/icons?i=azure" height="55"/>
+  <!-- DEVOPS -->
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
+  <img src="https://skillicons.dev/icons?i=azure" height="40"/>
 </p>
 
 ---
 
-# 📊 Estadísticas
+## 📊 Estadísticas
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfleper&layout=compact&theme=tokyonight&langs_count=6" height="165"/>
@@ -75,7 +76,7 @@
 
 ---
 
-# 🧠 Cómo trabajo
+## 🧠 Cómo trabajo
 <p align="center">
   <img src="https://img.shields.io/badge/Código%20limpio-✔️-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Arquitectura%20en%20capas-✔️-blue?style=for-the-badge"/>
@@ -86,7 +87,7 @@
 
 ---
 
-## ⭐ Mis valores como desarrollador
+### ⭐ Mis valores como desarrollador
 - Aprender rápido  
 - Ser constante  
 - Trabajar con detalle  
@@ -95,7 +96,7 @@
 
 ---
 
-# 📬 Contacto
+## 📬 Contacto
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-dfleper-181717?style=for-the-badge&logo=github)](https://github.com/dfleper)

@@ -1,6 +1,14 @@
 <h2 align="center">👋 Hola, soy <strong>Domingo</strong></h2>
 <p align="center">💻 Desarrollador de Software | Construyendo futuro con cada línea de código</p>
 
+<p align="center">
+  <a href="https://svelsys-demo.vercel.app/" target="_blank">
+    <img src="assets/start-button.png" alt="START" width="420">
+  </a>
+  <br>
+  <sub>⚠️ MASTER START — PULSADOR PRINCIPAL</sub>
+</p>
+
 ---
 
 ## 🧩 Stack Tecnológico

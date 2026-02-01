@@ -13,7 +13,6 @@
 
 ## <img src="./assets/skills.gif" width="48"> Stack Tecnológico
 
-
 ### <img src="./assets/backend.gif" width="48"> Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40"/>
@@ -75,9 +74,9 @@
 ## <img src="./assets/business.gif" width="48"> Estadísticas
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfleper&layout=compact&theme=tokyonight&langs_count=6" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfleper&layout=compact&theme=tokyonight&langs_count=6" height="165" />
 
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=dfleper&show_icons=true&theme=tokyonight" height="165"/> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=dfleper&show_icons=true&theme=tokyonight" height="165" /> -->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dfleper&theme=tokyonight" />
 
@@ -96,7 +95,7 @@
 
 ---
 
-### ⭐ Mis valores como desarrollador
+### <img src="./assets/palette-brush.gif" width="48"> Mis valores como desarrollador
 - Aprender rápido  
 - Ser constante  
 - Trabajar con detalle  

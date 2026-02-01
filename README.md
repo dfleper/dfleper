@@ -67,12 +67,12 @@
   <img src="./assets/netbeans-original-wordmark.svg" height="50"/>
 
   <!-- APIs / DISEÑO -->
-  <img src="https://skillicons.dev/icons?i=postman" height="40"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="40"/>
+  <img src="./assets/postman-original-wordmark.svg" height="50"/>
+  <img src="./assets/figma-original.svg" height="50"/>
 
   <!-- DEVOPS -->
-  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
-  <img src="https://skillicons.dev/icons?i=azure" height="40"/>
+  <img src="./assets/docker-original-wordmark.svg" height="50"/>
+  <img src="./assets/azuredevops-original.svg" height="50"/>
 </p>
 
 ---

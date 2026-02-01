@@ -95,7 +95,7 @@
 
 ---
 
-### <img src="./assets/palette-brush.gif" width="48"> Mis valores como desarrollador
+### <img src="./assets/blocks-hand.gif" width="48"> Mis valores como desarrollador
 - Aprender rápido  
 - Ser constante  
 - Trabajar con detalle  

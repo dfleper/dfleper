@@ -38,9 +38,10 @@
 <p align="center">
   <img src="./assets/html5-original-wordmark.svg" height="50"/>
   <img src="./assets/css3-original-wordmark.svg" height="50"/>
-  <img src="./assets/bootstrap-original-wordmark.svg" height="50"/>
-  <img src="./assets/tailwindcss-plain-wordmark.svg" height="50"/>
   <img src="./assets/javascript-plain.svg" height="50"/>
+  <img src="./assets/bootstrap-original.svg" height="50"/>
+  <img src="./assets/tailwindcss-original.svg" height="50"/>
+  
 </p>
 
 ---

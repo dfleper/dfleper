@@ -15,30 +15,32 @@
 
 ### <img src="./assets/backend.gif" width="48"> Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java" height="40"/>
-  <img src="https://skillicons.dev/icons?i=spring" height="40"/>
-  <img src="https://skillicons.dev/icons?i=hibernate" height="40"/>
-  <img src="https://skillicons.dev/icons?i=maven" height="40"/>
-  <img src="https://skillicons.dev/icons?i=cs" height="40"/>
+  <img src="./assets/java-original-wordmark.svg" height="50"/>
+  <img src="./assets/spring-original-wordmark.svg" height="50"/>
+  <img src="./assets/hibernate-original-wordmark.svg" height="50"/>
+  <img src="./assets/maven-original-wordmark.svg" height="50"/>
+  <img src="./assets/csharp-line.svg" height="50"/>
 </p>
 
 ---
 
 ### <img src="./assets/database.gif" width="48"> Base de Datos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-  <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
+  <img src="./assets/mysql-original-wordmark.svg" height="50"/>
+  <img src="./assets/postgresql-original-wordmark.svg" height="50"/>
+  <img src="./assets/microsoftsqlserver-original-wordmark.svg" height="50"/>
+  <img src="./assets/mariadb-original-wordmark.svg" height="50"/>
 </p>
 
 ---
 
 ### <img src="./assets/ux-design.gif" width="48"> Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="40"/>
-  <img src="https://skillicons.dev/icons?i=css" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
-  <img src="https://skillicons.dev/icons?i=js" height="40"/>
+  <img src="./assets/html5-original-wordmark.svg" height="50"/>
+  <img src="./assets/css3-original-wordmark.svg" height="50"/>
+  <img src="./assets/bootstrap-original-wordmark.svg" height="50"/>
+  <img src="./assets/tailwindcss-plain-wordmark.svg" height="50"/>
+  <img src="./assets/javascript-plain.svg" height="50"/>
 </p>
 
 ---
@@ -47,9 +49,11 @@
 
 <p align="center">
   <!-- CONTROL DE VERSIONES -->
-  <img src="https://skillicons.dev/icons?i=git" height="40"/>
-  <img src="https://skillicons.dev/icons?i=github" height="40"/>
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40"/>
+  <img src="./assets/git-original-wordmark.svg" height="50"/>
+  <img src="./assets/github-original-wordmark.svg" height="50"/>
+  <img src=".assets/gitlab-original-wordmark.svg" height="50"/>
+  <img src=".assets/jira-original-wordmark.svg" height="50"/>
+  <img src=".assets/trello-original-wordmark.svg" height="50"/>
 
   <!-- ENTORNO / SO -->
   <img src="https://skillicons.dev/icons?i=linux" height="40"/>

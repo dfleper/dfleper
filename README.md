@@ -41,6 +41,8 @@
   <img src="./assets/javascript-plain.svg" height="64"/>
   <img src="./assets/bootstrap-original.svg" height="64"/>
   <img src="./assets/tailwindcss-original.svg" height="64"/>
+  <img src="./assets/angular-original.svg" height="64"/>
+  <img src="./assets/primeng-original.svg" height="64"/>
   
 </p>
 

@@ -11,9 +11,10 @@
 
 ---
 
-## 🧩 Stack Tecnológico
+## <img src="./assets/skills.gif" width="48"> Stack Tecnológico
 
-### 🔥 Backend
+
+### <img src="./assets/backend.gif" width="48"> Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40"/>
   <img src="https://skillicons.dev/icons?i=spring" height="40"/>
@@ -24,7 +25,7 @@
 
 ---
 
-### 🛢 Base de Datos
+### <img src="./assets/database.gif" width="48"> Base de Datos
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
   <img src="https://skillicons.dev/icons?i=postgres" height="40"/>
@@ -32,7 +33,7 @@
 
 ---
 
-### 🎨 Frontend
+### <img src="./assets/ux-design.gif" width="48"> Frontend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" height="40"/>
@@ -43,7 +44,7 @@
 
 ---
 
-### 🧰 Tools del desarrollador
+### <img src="./assets/toolbox.gif" width="48"> Tools del desarrollador
 
 <p align="center">
   <!-- CONTROL DE VERSIONES -->
@@ -71,12 +72,12 @@
 
 ---
 
-## 📊 Estadísticas
+## <img src="./assets/business.gif" width="48"> Estadísticas
 <div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfleper&layout=compact&theme=tokyonight&langs_count=6" height="165"/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=dfleper&show_icons=true&theme=tokyonight" height="165"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=dfleper&show_icons=true&theme=tokyonight" height="165"/> -->
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dfleper&theme=tokyonight" />
 
@@ -84,7 +85,7 @@
 
 ---
 
-## 🧠 Cómo trabajo
+## <img src="./assets/creative-thinking.gif" width="48"> Cómo trabajo
 <p align="center">
   <img src="https://img.shields.io/badge/Código%20limpio-✔️-brightgreen?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Arquitectura%20en%20capas-✔️-blue?style=for-the-badge"/>
@@ -104,7 +105,7 @@
 
 ---
 
-## 📬 Contacto
+## <img src="./assets/tech-support.gif" width="48"> Contacto
 <div align="center">
   
 [![GitHub](https://img.shields.io/badge/GitHub-dfleper-181717?style=for-the-badge&logo=github)](https://github.com/dfleper)

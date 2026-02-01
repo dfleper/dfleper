@@ -86,7 +86,9 @@
 
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=dfleper&show_icons=true&theme=tokyonight" height="165" /> -->
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dfleper&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dfleper&theme=tokyonight" height ="165" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dfleper&theme=tokyo-night&bg_color=0d1117&color=02D9F7&line=02D9F7&point=ffffff&area=true&hide_border=true" height="165"/>
 
 </div>
 

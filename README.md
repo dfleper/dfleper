@@ -15,32 +15,32 @@
 
 ### <img src="./assets/backend.gif" width="48"> Backend
 <p align="center">
-  <img src="./assets/java-original-wordmark.svg" height="50"/>
-  <img src="./assets/spring-original-wordmark.svg" height="50"/>
-  <img src="./assets/hibernate-original-wordmark.svg" height="50"/>
-  <img src="./assets/maven-original-wordmark.svg" height="50"/>
-  <img src="./assets/csharp-line.svg" height="50"/>
+  <img src="./assets/java-original-wordmark.svg" height="64"/>
+  <img src="./assets/spring-original-wordmark.svg" height="64"/>
+  <img src="./assets/hibernate-original-wordmark.svg" height="64"/>
+  <img src="./assets/maven-original-wordmark.svg" height="64"/>
+  <img src="./assets/csharp-line.svg" height="64"/>
 </p>
 
 ---
 
 ### <img src="./assets/database.gif" width="48"> Base de Datos
 <p align="center">
-  <img src="./assets/mysql-original-wordmark.svg" height="50"/>
-  <img src="./assets/postgresql-original-wordmark.svg" height="50"/>
-  <img src="./assets/microsoftsqlserver-original-wordmark.svg" height="50"/>
-  <img src="./assets/mariadb-original-wordmark.svg" height="50"/>
+  <img src="./assets/mysql-original-wordmark.svg" height="64"/>
+  <img src="./assets/postgresql-original-wordmark.svg" height="64"/>
+  <img src="./assets/microsoftsqlserver-original-wordmark.svg" height="64"/>
+  <img src="./assets/mariadb-original-wordmark.svg" height="64"/>
 </p>
 
 ---
 
 ### <img src="./assets/ux-design.gif" width="48"> Frontend
 <p align="center">
-  <img src="./assets/html5-original-wordmark.svg" height="50"/>
-  <img src="./assets/css3-original-wordmark.svg" height="50"/>
-  <img src="./assets/javascript-plain.svg" height="50"/>
-  <img src="./assets/bootstrap-original.svg" height="50"/>
-  <img src="./assets/tailwindcss-original.svg" height="50"/>
+  <img src="./assets/html5-original-wordmark.svg" height="64"/>
+  <img src="./assets/css3-original-wordmark.svg" height="64"/>
+  <img src="./assets/javascript-plain.svg" height="64"/>
+  <img src="./assets/bootstrap-original.svg" height="64"/>
+  <img src="./assets/tailwindcss-original.svg" height="64"/>
   
 </p>
 
@@ -50,29 +50,29 @@
 
 <p align="center">
   <!-- CONTROL DE VERSIONES -->
-  <img src="./assets/git-original-wordmark.svg" height="50"/>
-  <img src="./assets/github-original-wordmark.svg" height="50"/>
-  <img src="./assets/gitlab-original-wordmark.svg" height="50"/>
-  <img src="./assets/jira-original-wordmark.svg" height="50"/>
-  <img src="./assets/trello-original-wordmark.svg" height="50"/>
+  <img src="./assets/git-original-wordmark.svg" height="64"/>
+  <img src="./assets/github-original-wordmark.svg" height="64"/>
+  <img src="./assets/gitlab-original-wordmark.svg" height="64"/>
+  <img src="./assets/jira-original-wordmark.svg" height="64"/>
+  <img src="./assets/trello-original-wordmark.svg" height="64"/>
 
   <!-- ENTORNO / SO -->
-  <img src="./assets/linux-original.svg" height="50"/>
-  <img src="./assets/ubuntu-original-wordmark.svg" height="50"/>
-  <img src="./assets/linuxmint-plain-wordmark.svg" height="50"/>
+  <img src="./assets/linux-original.svg" height="64"/>
+  <img src="./assets/ubuntu-original-wordmark.svg" height="64"/>
+  <img src="./assets/linuxmint-plain-wordmark.svg" height="64"/>
 
   <!-- IDE / EDITORES -->
-  <img src="./assets/eclipse-original-wordmark.svg" height="50"/>
-  <img src="./assets/vscode-original-wordmark.svg" height="50"/>
-  <img src="./assets/netbeans-original-wordmark.svg" height="50"/>
+  <img src="./assets/eclipse-original-wordmark.svg" height="64"/>
+  <img src="./assets/vscode-original-wordmark.svg" height="64"/>
+  <img src="./assets/netbeans-original-wordmark.svg" height="64"/>
 
   <!-- APIs / DISEÑO -->
-  <img src="./assets/postman-original-wordmark.svg" height="50"/>
-  <img src="./assets/figma-original.svg" height="50"/>
+  <img src="./assets/postman-original-wordmark.svg" height="64"/>
+  <img src="./assets/figma-original.svg" height="64"/>
 
   <!-- DEVOPS -->
-  <img src="./assets/docker-original-wordmark.svg" height="50"/>
-  <img src="./assets/azuredevops-original.svg" height="50"/>
+  <img src="./assets/docker-original-wordmark.svg" height="64"/>
+  <img src="./assets/azuredevops-original.svg" height="64"/>
 </p>
 
 ---

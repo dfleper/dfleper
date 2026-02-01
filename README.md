@@ -57,13 +57,14 @@
   <img src="./assets/trello-original-wordmark.svg" height="50"/>
 
   <!-- ENTORNO / SO -->
-  <img src="https://skillicons.dev/icons?i=linux" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ubuntu" height="40"/>
-  <img src="https://skillicons.dev/icons?i=mint" height="40"/>
+  <img src="./assets/linux-original.svg" height="50"/>
+  <img src="./assets/ubuntu-original-wordmark.svg" height="50"/>
+  <img src="./assets/linuxmint-plain-wordmark.svg" height="50"/>
 
   <!-- IDE / EDITORES -->
-  <img src="https://skillicons.dev/icons?i=eclipse" height="40"/>
-  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+  <img src="./assets/eclipse-original-wordmark.svg" height="50"/>
+  <img src="./assets/vscode-original-wordmark.svg" height="50"/>
+  <img src="./assets/netbeans-original-wordmark.svg" height="50"/>
 
   <!-- APIs / DISEÑO -->
   <img src="https://skillicons.dev/icons?i=postman" height="40"/>

@@ -52,9 +52,9 @@
   <!-- CONTROL DE VERSIONES -->
   <img src="./assets/git-original-wordmark.svg" height="50"/>
   <img src="./assets/github-original-wordmark.svg" height="50"/>
-  <img src=".assets/gitlab-original-wordmark.svg" height="50"/>
-  <img src=".assets/jira-original-wordmark.svg" height="50"/>
-  <img src=".assets/trello-original-wordmark.svg" height="50"/>
+  <img src="./assets/gitlab-original-wordmark.svg" height="50"/>
+  <img src="./assets/jira-original-wordmark.svg" height="50"/>
+  <img src="./assets/trello-original-wordmark.svg" height="50"/>
 
   <!-- ENTORNO / SO -->
   <img src="https://skillicons.dev/icons?i=linux" height="40"/>

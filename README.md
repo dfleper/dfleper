@@ -81,10 +81,8 @@
 
 ## <img src="./assets/business.gif" width="48"> Estadísticas
 <div align="center">
-
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfleper&layout=compact&theme=tokyonight&langs_count=6" height="165" /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfleper&layout=compact&theme=github_dark&hide_border=true&langs_count=8" height="165" /> -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=dfleper&show_icons=true&theme=tokyonight" height="165" /> -->
+  
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=dfleper&layout=donut&theme=github_dark&langs_count=8" height="165" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dfleper&theme=tokyonight" height ="165" />
 

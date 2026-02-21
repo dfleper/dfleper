@@ -29,7 +29,7 @@
   <img src="./assets/MySQL.svg" height="64" title="MySQL"/>
   <img src="./assets/PostgresSQL.svg" height="64" title="PostgresSQL"/>
   <img src="./assets/SQL Server.svg" height="64" title="SQL Server"/>
-  <img src="./assets/SQLite.svg" height="64" title="SQLite/>
+  <img src="./assets/SQLite.svg" height="64" title="SQLite"/>
 </p>
 
 ---

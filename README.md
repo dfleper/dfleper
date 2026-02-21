@@ -15,35 +15,33 @@
 
 ### <img src="./assets/backend.gif" width="48"> Backend
 <p align="center">
-  <img src="./assets/java-original-wordmark.svg" height="64"/>
-  <img src="./assets/spring-original-wordmark.svg" height="64"/>
-  <img src="./assets/hibernate-original-wordmark.svg" height="64"/>
-  <img src="./assets/maven-original-wordmark.svg" height="64"/>
-  <img src="./assets/csharp-line.svg" height="64"/>
+  <img src="./assets/Java.svg" height="64" title="Java"/>
+  <img src="./assets/Spring.svg" height="64" title="Spring Boot"/>
+  <img src="./assets/Hibernate.svg" height="64" title="Hibernate"/>
+  <img src="./assets/Apache Maven.svg" height="64" title="Apache Maven"/>
+  <img src="./assets/CSharp.svg" height="64" title="C#"/>
 </p>
 
 ---
 
 ### <img src="./assets/database.gif" width="48"> Base de Datos
 <p align="center">
-  <img src="./assets/mysql-original-wordmark.svg" height="64"/>
-  <img src="./assets/postgresql-original-wordmark.svg" height="64"/>
-  <img src="./assets/microsoftsqlserver-original-wordmark.svg" height="64"/>
-  <img src="./assets/mariadb-original-wordmark.svg" height="64"/>
+  <img src="./assets/MySQL.svg" height="64" title="MySQL"/>
+  <img src="./assets/PostgresSQL.svg" height="64" title="PostgresSQL"/>
+  <img src="./assets/SQL Server.svg" height="64" title="SQL Server"/>
+  <img src="./assets/SQLite" height="64" title="SQLite/>
 </p>
 
 ---
 
 ### <img src="./assets/ux-design.gif" width="48"> Frontend
 <p align="center">
-  <img src="./assets/html5-original-wordmark.svg" height="64"/>
-  <img src="./assets/css3-original-wordmark.svg" height="64"/>
-  <img src="./assets/javascript-plain.svg" height="64"/>
-  <img src="./assets/bootstrap-original.svg" height="64"/>
-  <img src="./assets/tailwindcss-original.svg" height="64"/>
-  <img src="./assets/angular-original.svg" height="64"/>
-  <img src="./assets/primeng-original.svg" height="64"/>
-  
+  <img src="./assets/HTML5.svg" height="64" title="HTML5"/>
+  <img src="./assets/CSS3.svg" height="64" title="CSS3"/>
+  <img src="./assets/JavaScript.svg" height="64" title="JavaScript"/>
+  <img src="./assets/Bootstrap.svg" height="64" title="Bootstrap"/>
+  <img src="./assets/Tailwind.svg" height="64" title="Tailwind"/>
+  <img src="./assets/Angular.svg" height="64" title="Angular"/>
 </p>
 
 ---
@@ -52,29 +50,31 @@
 
 <p align="center">
   <!-- CONTROL DE VERSIONES -->
-  <img src="./assets/git-original-wordmark.svg" height="64"/>
-  <img src="./assets/github-original-wordmark.svg" height="64"/>
-  <img src="./assets/gitlab-original-wordmark.svg" height="64"/>
-  <img src="./assets/jira-original-wordmark.svg" height="64"/>
-  <img src="./assets/trello-original-wordmark.svg" height="64"/>
+  <img src="./assets/Git.svg" height="64" title="Git"/>
+  <img src="./assets/GitHub.svg" height="64" title="GitHub"/>
+  <img src="./assets/GitLab.svg" height="64" title="GitLab"/>
+  <img src="./assets/Jira.svg" height="64" title="Jira"/>
+  <img src="./assets/Trello.svg" height="64" title="Trello"/>
 
   <!-- ENTORNO / SO -->
-  <img src="./assets/linux-original.svg" height="64"/>
-  <img src="./assets/ubuntu-original-wordmark.svg" height="64"/>
-  <img src="./assets/linuxmint-plain-wordmark.svg" height="64"/>
+  <img src="./assets/Linux.svg" height="64" title="Linux"/>
+  <img src="./assets/Ubuntu.svg" height="64" title="Ubuntu"/>
 
   <!-- IDE / EDITORES -->
-  <img src="./assets/eclipse-original-wordmark.svg" height="64"/>
-  <img src="./assets/vscode-original-wordmark.svg" height="64"/>
-  <img src="./assets/netbeans-original-wordmark.svg" height="64"/>
+  <img src="./assets/Eclipse.svg" height="64" title="Eclipse"/>
+  <img src="./assets/Visual Studio Code.svg" height="64" title="Visual Studio Code"/>
+  <img src="./assets/Visual Studio.svg" height="64" title="Visual Studio"/>
 
   <!-- APIs / DISEÑO -->
-  <img src="./assets/postman-original-wordmark.svg" height="64"/>
-  <img src="./assets/figma-original.svg" height="64"/>
+  <img src="./assets/Postman.svg" height="64" title="Postman"/>
+  <img src="./assets/Figma.svg" height="64" title="Figma"/>
+  <img src="./assets/Canva.svg" height="64" title="Canva"/>
+  <img src="./assets/Gimp.svg" height="64" title="Gimp"/>
+  <img src="./assets/Inkscape.svg" height="64" title="Inkscape"/>
 
   <!-- DEVOPS -->
-  <img src="./assets/docker-original-wordmark.svg" height="64"/>
-  <img src="./assets/azuredevops-original.svg" height="64"/>
+  <img src="./assets/Docker.svg" height="64" title="Docker"/>
+  <img src="./assets/Azure Devops.svg" height="64" title="Azure Devops"/>
 </p>
 
 ---

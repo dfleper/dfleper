@@ -2,8 +2,8 @@
 <p align="center">💻 Desarrollador de Software | Construyendo futuro con cada línea de código</p>
 
 <p align="center">
-  <a href="https://svelsys-demo.vercel.app/" target="_blank">
-    <img src="assets/start_button.gif" alt="START" width="320">
+  <a href="https://svelsys-demo.vercel.app/" target="_blank" rel="noopener noreferrer">
+    <img src="assets/start_button.gif" alt="START" width="220">
   </a>
   <br>
   <sub>⚠️ MASTER START — PULSADOR PRINCIPAL</sub>

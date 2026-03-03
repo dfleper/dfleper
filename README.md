@@ -6,7 +6,7 @@
     <img src="assets/start_button.gif" alt="START" width="220">
   </a>
   <br>
-  <sub>⚠️ MASTER START — CRTL + CLICK</sub>
+  <sub>⚠️ MASTER START — CTRL + CLICK</sub>
 </p>
 
 ---

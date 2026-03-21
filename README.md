@@ -16,10 +16,10 @@
 ### <img src="./assets/backend.gif" width="48"> Backend
 <p align="center">
   <img src="./assets/Java.svg" height="64" title="Java"/>
-  <img src="./assets/Spring.svg" height="64" title="Spring Boot"/>
+  <!-- <img src="./assets/Spring.svg" height="64" title="Spring Boot"/>
   <img src="./assets/Hibernate.svg" height="64" title="Hibernate"/>
   <img src="./assets/Apache Maven.svg" height="64" title="Apache Maven"/>
-  <img src="./assets/CSharp.svg" height="64" title="C#"/>
+  <img src="./assets/CSharp.svg" height="64" title="C#"/> -->
 </p>
 
 ---
@@ -28,8 +28,8 @@
 <p align="center">
   <img src="./assets/MySQL.svg" height="64" title="MySQL"/>
   <img src="./assets/PostgresSQL.svg" height="64" title="PostgresSQL"/>
-  <img src="./assets/SQL Server.svg" height="64" title="SQL Server"/>
-  <img src="./assets/SQLite.svg" height="64" title="SQLite"/>
+  <!-- <img src="./assets/SQL Server.svg" height="64" title="SQL Server"/>
+  <img src="./assets/SQLite.svg" height="64" title="SQLite"/> -->
 </p>
 
 ---
@@ -39,9 +39,9 @@
   <img src="./assets/HTML5.svg" height="64" title="HTML5"/>
   <img src="./assets/CSS3.svg" height="64" title="CSS3"/>
   <img src="./assets/JavaScript.svg" height="64" title="JavaScript"/>
-  <img src="./assets/Bootstrap.svg" height="64" title="Bootstrap"/>
+  <!-- <img src="./assets/Bootstrap.svg" height="64" title="Bootstrap"/>
   <img src="./assets/Tailwind.svg" height="64" title="Tailwind"/>
-  <img src="./assets/Angular.svg" height="64" title="Angular"/>
+  <img src="./assets/Angular.svg" height="64" title="Angular"/> -->
 </p>
 
 ---
@@ -66,15 +66,15 @@
   <img src="./assets/Visual Studio.svg" height="64" title="Visual Studio"/>
 
   <!-- APIs / DISEÑO -->
-  <img src="./assets/Postman.svg" height="64" title="Postman"/>
+  <!-- <img src="./assets/Postman.svg" height="64" title="Postman"/>
   <img src="./assets/Figma.svg" height="64" title="Figma"/>
   <img src="./assets/Canva.svg" height="64" title="Canva"/>
   <img src="./assets/Gimp.svg" height="64" title="Gimp"/>
-  <img src="./assets/Inkscape.svg" height="64" title="Inkscape"/>
+  <img src="./assets/Inkscape.svg" height="64" title="Inkscape"/> -->
 
   <!-- DEVOPS -->
-  <img src="./assets/Docker.svg" height="64" title="Docker"/>
-  <img src="./assets/Azure Devops.svg" height="64" title="Azure Devops"/>
+  <!-- <img src="./assets/Docker.svg" height="64" title="Docker"/>
+  <img src="./assets/Azure Devops.svg" height="64" title="Azure Devops"/> -->
 </p>
 
 ---

@@ -1,5 +1,5 @@
 <h2 align="center">👋 Hola, soy <strong>Domingo</strong></h2>
-<p align="center">💻 Desarrollador de Software | Construyendo futuro con cada línea de código</p>
+<p align="center">💻 Desarrollador de Software | Busco mejorar en cada proyecto, cuidar los detalles y construir soluciones funcionales y bien ordenadas.</p>
 
 <p align="center">
   <a href="https://svelsys-demo.vercel.app/" target="_blank" rel="noopener noreferrer">
@@ -16,10 +16,10 @@
 ### <img src="./assets/backend.gif" width="48"> Backend
 <p align="center">
   <img src="./assets/Java.svg" height="64" title="Java"/>
-  <!-- <img src="./assets/Spring.svg" height="64" title="Spring Boot"/>
+  <img src="./assets/Spring.svg" height="64" title="Spring Boot"/>
   <img src="./assets/Hibernate.svg" height="64" title="Hibernate"/>
   <img src="./assets/Apache Maven.svg" height="64" title="Apache Maven"/>
-  <img src="./assets/CSharp.svg" height="64" title="C#"/> -->
+  <img src="./assets/CSharp.svg" height="64" title="C#"/>
 </p>
 
 ---
@@ -27,9 +27,9 @@
 ### <img src="./assets/database.gif" width="48"> Base de Datos
 <p align="center">
   <img src="./assets/MySQL.svg" height="64" title="MySQL"/>
-  <!-- <img src="./assets/PostgresSQL.svg" height="64" title="PostgresSQL"/>
+  <img src="./assets/PostgresSQL.svg" height="64" title="PostgreSQL"/>
   <img src="./assets/SQL Server.svg" height="64" title="SQL Server"/>
-  <img src="./assets/SQLite.svg" height="64" title="SQLite"/> -->
+  <img src="./assets/SQLite.svg" height="64" title="SQLite"/>
 </p>
 
 ---
@@ -39,42 +39,42 @@
   <img src="./assets/HTML5.svg" height="64" title="HTML5"/>
   <img src="./assets/CSS3.svg" height="64" title="CSS3"/>
   <img src="./assets/JavaScript.svg" height="64" title="JavaScript"/>
-  <!-- <img src="./assets/Bootstrap.svg" height="64" title="Bootstrap"/>
+  <img src="./assets/Bootstrap.svg" height="64" title="Bootstrap"/>
   <img src="./assets/Tailwind.svg" height="64" title="Tailwind"/>
-  <img src="./assets/Angular.svg" height="64" title="Angular"/> -->
+  <img src="./assets/Angular.svg" height="64" title="Angular"/>
 </p>
 
 ---
 
 ### <img src="./assets/toolbox.gif" width="48"> Tools del desarrollador
-
 <p align="center">
-  <!-- CONTROL DE VERSIONES -->
-  <!-- <img src="./assets/Git.svg" height="64" title="Git"/>
+
+### Control de Versiones y Organización
+  <img src="./assets/Git.svg" height="64" title="Git"/>
   <img src="./assets/GitHub.svg" height="64" title="GitHub"/>
   <img src="./assets/GitLab.svg" height="64" title="GitLab"/>
   <img src="./assets/Jira.svg" height="64" title="Jira"/>
-  <img src="./assets/Trello.svg" height="64" title="Trello"/> -->
+  <img src="./assets/Trello.svg" height="64" title="Trello"/>
 
-  <!-- ENTORNO / SO -->
-  <!-- <img src="./assets/Linux.svg" height="64" title="Linux"/>
-  <img src="./assets/Ubuntu.svg" height="64" title="Ubuntu"/> -->
+  ### Entorno / SO
+  <img src="./assets/Linux.svg" height="64" title="Linux"/>
+  <img src="./assets/Ubuntu.svg" height="64" title="Ubuntu"/>
 
-  <!-- IDE / EDITORES -->
-  <!-- <img src="./assets/Eclipse.svg" height="64" title="Eclipse"/> -->
+  ### Ide´s / Editores
+  <img src="./assets/Eclipse.svg" height="64" title="Eclipse"/>
   <img src="./assets/Visual Studio Code.svg" height="64" title="Visual Studio Code"/>
-  <!-- <img src="./assets/Visual Studio.svg" height="64" title="Visual Studio"/> -->
+  <img src="./assets/Visual Studio.svg" height="64" title="Visual Studio"/>
 
-  <!-- APIs / DISEÑO -->
-  <!-- <img src="./assets/Postman.svg" height="64" title="Postman"/>
+  ### Api´s / Diseño
+  <img src="./assets/Postman.svg" height="64" title="Postman"/>
   <img src="./assets/Figma.svg" height="64" title="Figma"/>
   <img src="./assets/Canva.svg" height="64" title="Canva"/>
   <img src="./assets/Gimp.svg" height="64" title="Gimp"/>
-  <img src="./assets/Inkscape.svg" height="64" title="Inkscape"/> -->
+  <img src="./assets/Inkscape.svg" height="64" title="Inkscape"/>
 
-  <!-- DEVOPS -->
-  <!-- <img src="./assets/Docker.svg" height="64" title="Docker"/>
-  <img src="./assets/Azure Devops.svg" height="64" title="Azure Devops"/> -->
+  ### Devops
+  <img src="./assets/Docker.svg" height="64" title="Docker"/>
+  <img src="./assets/Azure Devops.svg" height="64" title="Azure Devops"/>
 </p>
 
 ---
@@ -104,13 +104,25 @@
 ---
 
 ### <img src="./assets/blocks-hand.gif" width="48"> Mis valores como desarrollador
-- Aprender rápido  
-- Ser constante  
-- Trabajar con detalle  
-- Buscar calidad aunque esté empezando  
-- Poner cariño en cada proyecto
+- Aprendizaje constante  
+- Atención al detalle
+- Constancia en cada proyecto
+- Ganas de mejorar continuamente 
+- Compromiso con la calidad del trabajo
 
 ---
+
+<!-- ## <img src="./assets/tech-support.gif" width="40"> Proyectos destacados
+
+### Nombre del proyecto
+Breve descripción y qué problema resuelve.
+
+**Imágen:**
+**Tecnologías:**  
+**Repositorio:** [Ver en GitHub](https://github.com/dfleper)  
+**Demo:** [Ver proyecto](https://svelsys-demo.vercel.app/)
+
+--- -->
 
 ## <img src="./assets/tech-support.gif" width="48"> Contacto
 <div align="center">

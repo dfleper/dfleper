@@ -47,7 +47,6 @@
 ---
 
 ### <img src="./assets/toolbox.gif" width="48"> Tools del desarrollador
-<p align="center">
 
 ### Control de Versiones y Organización
 <p align="center">
@@ -64,14 +63,14 @@
   <img src="./assets/Ubuntu.svg" height="64" title="Ubuntu"/>
 </p>
 
-  ### Ide´s / Editores
+  ### Ide's / Editores
 <p align="center">
   <img src="./assets/Eclipse.svg" height="64" title="Eclipse"/>
   <img src="./assets/Visual Studio Code.svg" height="64" title="Visual Studio Code"/>
   <img src="./assets/Visual Studio.svg" height="64" title="Visual Studio"/>
 </p>
 
-  ### Api´s / Diseño
+  ### Api's / Diseño
 <p align="center">
   <img src="./assets/Postman.svg" height="64" title="Postman"/>
   <img src="./assets/Figma.svg" height="64" title="Figma"/>
@@ -84,7 +83,6 @@
 <p align="center">
   <img src="./assets/Docker.svg" height="64" title="Docker"/>
   <img src="./assets/Azure Devops.svg" height="64" title="Azure Devops"/>
-</p>
 </p>
 
 ---

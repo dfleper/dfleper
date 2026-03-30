@@ -145,17 +145,31 @@
 
 ---
 
-<!-- ## <img src="./assets/tech-support.gif" width="40"> Proyectos destacados
+## <img src="./assets/project-initiation.gif" width="48"> Proyectos destacados
 
-### Nombre del proyecto
-Breve descripción y qué problema resuelve.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>TT2025</h3>
+      <img src="./screenshots/tt2025.png" alt="Preview TT20025" width="300">
+      <br>
+      <br>
+      <sub>
+      <p>Aplicación web para gestionar citas de un taller de mecánica rápida.</p>
+      <p>Incluye gestión de clientes/vehículos, historial de servicios y notificaciones.</p>
+      <p><strong>Tecnologías:</strong> HTML5, CSS3, JavaScript, Spring Boot, Thymeleaf, MariaDB</p>
+      <p>
+        <strong>Repositorio:</strong>
+        <a href="https://github.com/dfleper/PRW-TT2025">Ver en GitHub</a><br></p>
+      <p><strong>Demo:</strong>
+        <a href="https://github.com/dfleper/PRW-TT2025">Ver proyecto</a>
+      </p>
+      </sub>
+    </td>
+  </tr>
+</table>
 
-**Imagen:**
-**Tecnologías:**  
-**Repositorio:** [Ver en GitHub](https://github.com/dfleper)  
-**Demo:** [Ver proyecto](https://svelsys-demo.vercel.app/)
-
---- -->
+---
 
 ## <img src="./assets/tech-support.gif" width="48"> Contacto
 <div align="center">

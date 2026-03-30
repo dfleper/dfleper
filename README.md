@@ -16,36 +16,36 @@
 
 ### <img src="./assets/backend.gif" width="48"> Backend
 <p align="center">
-  <img src="./assets/Java.svg" height="64" title="Java"/>
-  <img src="./assets/Spring.svg" height="64" title="Spring Boot"/>
-  <img src="./assets/Hibernate.svg" height="64" title="Hibernate"/>
-  <img src="./assets/Apache-Maven.svg" height="64" title="Apache Maven"/>
-  <img src="./assets/Apache-Tomcat.svg" height="64" title="Apache Tomcat"/>
-  <img src="./assets/CSharp.svg" height="64" title="C#"/>
+  <img src="./assets/Java.svg" height="48" title="Java"/>
+  <img src="./assets/Spring.svg" height="48" title="Spring Boot"/>
+  <img src="./assets/Hibernate.svg" height="48" title="Hibernate"/>
+  <img src="./assets/Apache-Maven.svg" height="48" title="Apache Maven"/>
+  <img src="./assets/Apache-Tomcat.svg" height="48" title="Apache Tomcat"/>
+  <img src="./assets/CSharp.svg" height="48" title="C#"/>
 </p>
 
 ---
 
 ### <img src="./assets/database.gif" width="48"> Base de Datos
 <p align="center">
-  <img src="./assets/MySQL.svg" height="64" title="MySQL"/>
-  <img src="./assets/PostgreSQL.svg" height="64" title="PostgreSQL"/>
-  <img src="./assets/SQLServer.svg" height="64" title="SQL Server"/>
-  <img src="./assets/SQLite.svg" height="64" title="SQLite"/>
-  <img src="./assets/Firebase.svg" height="64" title="Firebase"/>
-  <img src="./assets/DBeaver.svg" height="64" title="DBeaver"/>
+  <img src="./assets/MySQL.svg" height="48" title="MySQL"/>
+  <img src="./assets/PostgreSQL.svg" height="48" title="PostgreSQL"/>
+  <img src="./assets/SQLServer.svg" height="48" title="SQL Server"/>
+  <img src="./assets/SQLite.svg" height="48" title="SQLite"/>
+  <img src="./assets/Firebase.svg" height="48" title="Firebase"/>
+  <img src="./assets/DBeaver.svg" height="48" title="DBeaver"/>
 </p>
 
 ---
 
 ### <img src="./assets/ux-design.gif" width="48"> Frontend
 <p align="center">
-  <img src="./assets/HTML5.svg" height="64" title="HTML5"/>
-  <img src="./assets/CSS3.svg" height="64" title="CSS3"/>
-  <img src="./assets/JavaScript.svg" height="64" title="JavaScript"/>
-  <img src="./assets/Bootstrap.svg" height="64" title="Bootstrap"/>
-  <img src="./assets/Tailwind.svg" height="64" title="Tailwind"/>
-  <img src="./assets/Angular.svg" height="64" title="Angular"/>
+  <img src="./assets/HTML5.svg" height="48" title="HTML5"/>
+  <img src="./assets/CSS3.svg" height="48" title="CSS3"/>
+  <img src="./assets/JavaScript.svg" height="48" title="JavaScript"/>
+  <img src="./assets/Bootstrap.svg" height="48" title="Bootstrap"/>
+  <img src="./assets/Tailwind.svg" height="48" title="Tailwind"/>
+  <img src="./assets/Angular.svg" height="48" title="Angular"/>
 </p>
 
 ---
@@ -54,60 +54,60 @@
 
 #### Control de Versiones y Organización
 <p align="center">
-  <img src="./assets/Git.svg" height="64" title="Git"/>
-  <img src="./assets/GitHub.svg" height="64" title="GitHub"/>
-  <img src="./assets/GitLab.svg" height="64" title="GitLab"/>
-  <img src="./assets/Jira.svg" height="64" title="Jira"/>
-  <img src="./assets/Trello.svg" height="64" title="Trello"/>
+  <img src="./assets/Git.svg" height="48" title="Git"/>
+  <img src="./assets/GitHub.svg" height="48" title="GitHub"/>
+  <img src="./assets/GitLab.svg" height="48" title="GitLab"/>
+  <img src="./assets/Jira.svg" height="48" title="Jira"/>
+  <img src="./assets/Trello.svg" height="48" title="Trello"/>
 </p>
 
 #### Entorno
 <p align="center">
-  <img src="./assets/Linux.svg" height="64" title="Linux"/>
-  <img src="./assets/Ubuntu.svg" height="64" title="Ubuntu"/>
+  <img src="./assets/Linux.svg" height="48" title="Linux"/>
+  <img src="./assets/Ubuntu.svg" height="48" title="Ubuntu"/>
 </p>
 
 #### Editores
 <p align="center">
-  <img src="./assets/Eclipse.svg" height="64" title="Eclipse"/>
-  <img src="./assets/Visual-Studio-Code.svg" height="64" title="Visual Studio Code"/>
-  <img src="./assets/Visual-Studio.svg" height="64" title="Visual Studio"/>
+  <img src="./assets/Eclipse.svg" height="48" title="Eclipse"/>
+  <img src="./assets/Visual-Studio-Code.svg" height="48" title="Visual Studio Code"/>
+  <img src="./assets/Visual-Studio.svg" height="48" title="Visual Studio"/>
 </p>
 
 #### Diseño
 <p align="center">
-  <img src="./assets/Figma.svg" height="64" title="Figma"/>
-  <img src="./assets/Canva.svg" height="64" title="Canva"/>
-  <img src="./assets/Gimp.svg" height="64" title="Gimp"/>
-  <img src="./assets/Inkscape.svg" height="64" title="Inkscape"/>
+  <img src="./assets/Figma.svg" height="48" title="Figma"/>
+  <img src="./assets/Canva.svg" height="48" title="Canva"/>
+  <img src="./assets/Gimp.svg" height="48" title="Gimp"/>
+  <img src="./assets/Inkscape.svg" height="48" title="Inkscape"/>
 </p>
 
 #### DevOps
 <p align="center">
-  <img src="./assets/Docker.svg" height="64" title="Docker"/>
-  <img src="./assets/Azure-Devops.svg" height="64" title="Azure Devops"/>
+  <img src="./assets/Docker.svg" height="48" title="Docker"/>
+  <img src="./assets/Azure-Devops.svg" height="48" title="Azure Devops"/>
 </p>
 
 #### API
 <p align="center">
-  <img src="./assets/Postman.svg" height="64" title="Postman"/>
+  <img src="./assets/Postman.svg" height="48" title="Postman"/>
 </p>
 
 #### Navegadores / Testing
 <p align="center">
-  <img src="./assets/Chrome.svg" height="64" title="Google Chrome"/>
+  <img src="./assets/Chrome.svg" height="48" title="Google Chrome"/>
 </p>
 
 #### Deploy / Transferencia
 <p align="center">
-  <img src="./assets/FileZilla.svg" height="64" title="FileZilla"/>
+  <img src="./assets/FileZilla.svg" height="48" title="FileZilla"/>
 </p>
 
 ---
 
 ### <img src="./assets/blocks-hand.gif" width="48"> Otros conocimientos
 <p align="center">
-  <img src="./assets/JSON.svg" height="64" title="JSON"/>
+  <img src="./assets/JSON.svg" height="48" title="JSON"/>
 </p>
 
 ---

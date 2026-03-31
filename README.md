@@ -151,7 +151,11 @@
   <tr>
     <td width="50%" valign="top">
       <h3>TT2025</h3>
-      <img src="./screenshots/tt2025.png" alt="Preview TT20025" width="300">
+      <div align="center">
+        <a href="https://github.com/dfleper/PRW-TT2025" target="_blank" rel="noopener noreferrer">
+          <img src="./screenshots/tt2025.png" alt="Preview TT20025" width="300">
+        </a>
+      </div>
       <br>
       <br>
       <sub>
@@ -160,9 +164,9 @@
       <p><strong>Tecnologías:</strong> HTML5, CSS3, JavaScript, Spring Boot, Thymeleaf, MariaDB</p>
       <p>
         <strong>Repositorio:</strong>
-        <a href="https://github.com/dfleper/PRW-TT2025">Ver en GitHub</a><br></p>
+        <a href="https://github.com/dfleper/PRW-TT2025"><strong>Ver en GitHub</strong></a><br></p>
       <p><strong>Demo:</strong>
-        <a href="https://github.com/dfleper/PRW-TT2025">Ver proyecto</a>
+        <a href="https://github.com/dfleper/PRW-TT2025"><strong>Ver proyecto</strong></a>
       </p>
       </sub>
     </td>

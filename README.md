@@ -157,10 +157,10 @@
         </a>
       </div>
       <br>
-      <br>
       <sub>
       <p>Aplicación web para gestionar citas de un taller de mecánica rápida.</p>
       <p>Incluye gestión de clientes/vehículos, historial de servicios y notificaciones.</p>
+      <br>
       <p><strong>Tecnologías:</strong> HTML5, CSS3, JavaScript, Spring Boot, Thymeleaf, MariaDB</p>
       <p>
         <strong>Repositorio:</strong>

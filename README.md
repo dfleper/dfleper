@@ -153,22 +153,43 @@
       <h3>TT2025</h3>
       <div align="center">
         <a href="https://github.com/dfleper/PRW-TT2025" target="_blank" rel="noopener noreferrer">
-          <img src="./screenshots/tt2025.png" alt="Preview TT20025" width="300">
+          <img src="./screenshots/tt2025.png" alt="Preview TT2025" width="300">
         </a>
       </div>
       <br>
-      <sub>
-      <p>Aplicación web para gestionar citas de un taller de mecánica rápida.</p>
-      <p>Incluye gestión de clientes/vehículos, historial de servicios y notificaciones.</p>
+      <small>
+      <p>Aplicación web para gestionar citas de un taller de mecánica rápida. Incluye gestión de clientes/vehículos, historial de servicios y notificaciones.</p>
       <br>
-      <p><strong>Tecnologías:</strong> HTML5, CSS3, JavaScript, Spring Boot, Thymeleaf, MariaDB</p>
+      <p><strong>Tecnologías:</strong> HTML5, CSS3, JavaScript, Spring Boot, Thymeleaf, MariaDB.</p>
       <p>
         <strong>Repositorio:</strong>
         <a href="https://github.com/dfleper/PRW-TT2025"><strong>Ver en GitHub</strong></a><br></p>
       <p><strong>Demo:</strong>
         <a href="https://github.com/dfleper/PRW-TT2025"><strong>Ver proyecto</strong></a>
       </p>
-      </sub>
+      </small>
+    </td>
+    <td width="50%" valign="top">
+      <h3>TempInbox</h3>
+      <div align="center">
+        <a href="https://github.com/dfleper/TempInbox" target="_blank" rel="noopener noreferrer">
+          <img src="./screenshots/tempinbox_light.png" alt="Preview TempInbox Light" width="100">
+          <img src="./screenshots/tempinbox_dark.png" alt="Preview TempInbox Dark" width="100">
+          <img src="./screenshots/tempinbox_mail.png" alt="Preview TempInbox Email" width="100">
+        </a>
+      </div>
+      <br>
+      <small>
+      <p>TempInbox es un buzón temporal hecho con HTML, CSS y JavaScript que usa FreeCustom Email para recibir correos desechables.</p>
+      <br>
+      <p><strong>Tecnologías:</strong> HTML5, CSS3, Vanilla JavaScript, Node.</p>
+      <p>
+        <strong>Repositorio:</strong>
+        <a href="https://github.com/dfleper/TempInbox"><strong>Ver en GitHub</strong></a><br></p>
+      <p><strong>Demo:</strong>
+        <a href="https://github.com/dfleper/TempInbox"><strong>Ver proyecto</strong></a>
+      </p>
+      </small>
     </td>
   </tr>
 </table>

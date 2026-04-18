@@ -165,7 +165,7 @@
         <strong>Repositorio:</strong>
         <a href="https://github.com/dfleper/PRW-TT2025"><strong>Ver en GitHub</strong></a><br></p>
       <p><strong>Demo:</strong>
-        <a href="https://github.com/dfleper/PRW-TT2025"><strong>Ver proyecto</strong></a>
+        <a href="https://prw-tt2025-production.up.railway.app/"><strong>Ver proyecto</strong></a>
       </p>
       </small>
     </td>

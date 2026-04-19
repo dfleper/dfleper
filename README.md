@@ -187,7 +187,7 @@
         <strong>Repositorio:</strong>
         <a href="https://github.com/dfleper/TempInbox"><strong>Ver en GitHub</strong></a><br></p>
       <p><strong>Demo:</strong>
-        <a href="https://github.com/dfleper/TempInbox"><strong>Ver proyecto</strong></a>
+        <a href="https://tempinbox-production.up.railway.app/"><strong>Ver proyecto</strong></a>
       </p>
       </small>
     </td>

@@ -209,7 +209,7 @@
         <strong>Repositorio:</strong>
         <a href="https://github.com/dfleper/MessApp"><strong>Ver en GitHub</strong></a><br></p>
       <p><strong>Demo:</strong>
-        <a href=""><strong>Ver proyecto</strong></a>
+        <a href="https://github.com/dfleper/MessApp"><strong>Ver proyecto</strong></a>
       </p>
       </small>
     </td>

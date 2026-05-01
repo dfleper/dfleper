@@ -192,6 +192,27 @@
       </small>
     </td>
   </tr>
+    <td width="50%" valign="top">
+      <h3>MessApp</h3>
+      <div align="center">
+        <a href="https://github.com/dfleper/MessApp" target="_blank" rel="noopener noreferrer">
+          <img src="./screenshots/messapp.png" alt="Preview MessApp" width="300">
+        </a>
+      </div>
+      <br>
+      <small>
+      <p>MessApp es una aplicación sencilla para enviar y gestionar mensajes de forma rápida, segura y ordenada.</p>
+      <br>
+      <p><strong>Tecnologías:</strong> HTML, CSS, JavaScript, .NET / ASP.NET Core, PostgreSQL, Entity Framework Core, 
+      Docker y Docker Compose</p>
+      <p>
+        <strong>Repositorio:</strong>
+        <a href="https://github.com/dfleper/MessApp"><strong>Ver en GitHub</strong></a><br></p>
+      <p><strong>Demo:</strong>
+        <a href=""><strong>Ver proyecto</strong></a>
+      </p>
+      </small>
+    </td>
 </table>
 
 ---

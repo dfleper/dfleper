@@ -213,6 +213,26 @@
       </p>
       </small>
     </td>
+    <td width="50%" valign="top">
+      <h3>Job-Match-API</h3>
+      <div align="center">
+        <a href="https://github.com/dfleper/job-match-api" target="_blank" rel="noopener noreferrer">
+          <img src="./screenshots/job-match-api.png" alt="Preview Job-Match-API" width="300">
+        </a>
+      </div>
+      <br>
+      <small>
+      <p>API REST para calcular compatibilidad entre un perfil candidato y una lista de ofertas de trabajo.</p>
+      <br>
+      <p><strong>Tecnologías:</strong> Node, TypeScript, Express, CORS, Docker y Docker Compose</p>
+      <p>
+        <strong>Repositorio:</strong>
+        <a href="https://github.com/dfleper/job-match-api"><strong>Ver en GitHub</strong></a><br></p>
+      <p><strong>Demo:</strong>
+        <a href="https://github.com/dfleper/job-match-api"><strong>Ver proyecto</strong></a>
+      </p>
+      </small>
+    </td>
 </table>
 
 ---

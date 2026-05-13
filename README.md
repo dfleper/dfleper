@@ -208,9 +208,9 @@
       <p>
         <strong>Repositorio:</strong>
         <a href="https://github.com/dfleper/MessApp"><strong>Ver en GitHub</strong></a><br></p>
-      <p><strong>Demo:</strong>
+      <!-- <p><strong>Demo:</strong>
         <a href="https://github.com/dfleper/MessApp"><strong>Ver proyecto</strong></a>
-      </p>
+      </p> -->
       </small>
     </td>
     <td width="50%" valign="top">
@@ -228,9 +228,9 @@
       <p>
         <strong>Repositorio:</strong>
         <a href="https://github.com/dfleper/job-match-api"><strong>Ver en GitHub</strong></a><br></p>
-      <p><strong>Demo:</strong>
+      <!-- <p><strong>Demo:</strong>
         <a href="https://github.com/dfleper/job-match-api"><strong>Ver proyecto</strong></a>
-      </p>
+      </p> -->
       </small>
     </td>
 </table>

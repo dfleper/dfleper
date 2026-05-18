@@ -208,9 +208,9 @@
       <p>
         <strong>Repositorio:</strong>
         <a href="https://github.com/dfleper/MessApp"><strong>Ver en GitHub</strong></a><br></p>
-      <!-- <p><strong>Demo:</strong>
-        <a href="https://github.com/dfleper/MessApp"><strong>Ver proyecto</strong></a>
-      </p> -->
+      <p><strong>Demo:</strong>
+        <a href="https://frontend-production-a39c.up.railway.app/"><strong>Ver proyecto</strong></a>
+      </p>
       </small>
     </td>
     <td width="50%" valign="top">

@@ -238,9 +238,9 @@
 ---
 
 ## <img src="./assets/tech-support.gif" width="48"> Contacto
-<div align="center">
+<!-- <div align="center">
   
-[![GitHub](https://img.shields.io/badge/GitHub-dfleper-181717?style=for-the-badge&logo=github)](https://github.com/dfleper)
+[![GitHub](https://img.shields.io/badge/GitHub-dfleper-181717?style=for-the-badge&logo=github)](https://github.com/dfleper) -->
 
 </div>
 

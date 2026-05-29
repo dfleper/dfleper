@@ -233,6 +233,26 @@
       </p> -->
       </small>
     </td>
+    <td width="50%" valign="top">
+      <h3>MessApp</h3>
+      <div align="center">
+        <a href="https://github.com/dfleper/MoodCode" target="_blank" rel="noopener noreferrer">
+          <img src="./screenshots/MoodCode.png" alt="Preview MoodCode" width="300">
+        </a>
+      </div>
+      <br>
+      <small>
+      <p>MoodCode es una app minimalista hecha con Svelte que transforma tus sesiones de programación en burbujas visuales según tu estado de ánimo.</p>
+      <br>
+      <p><strong>Tecnologías:</strong> Svelte, HTML, CSS, JavaScript</p>
+      <p>
+        <strong>Repositorio:</strong>
+        <a href="https://github.com/dfleper/MoodCode"><strong>Ver en GitHub</strong></a><br></p>
+      <p><strong>Demo:</strong>
+        <a href="https://moodcode-production-9ca3.up.railway.app/"><strong>Ver proyecto</strong></a>
+      </p>
+      </small>
+    </td>
 </table>
 
 ---

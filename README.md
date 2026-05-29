@@ -192,6 +192,7 @@
       </small>
     </td>
   </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>MessApp</h3>
       <div align="center">
@@ -233,8 +234,10 @@
       </p> -->
       </small>
     </td>
+    </tr>
+    <tr>
     <td width="50%" valign="top">
-      <h3>MessApp</h3>
+      <h3>MoodCode</h3>
       <div align="center">
         <a href="https://github.com/dfleper/MoodCode" target="_blank" rel="noopener noreferrer">
           <img src="./screenshots/MoodCode.png" alt="Preview MoodCode" width="300">
@@ -253,6 +256,7 @@
       </p>
       </small>
     </td>
+    </tr>
 </table>
 
 ---

@@ -31,9 +31,9 @@
   <img src="./assets/MySQL.svg" height="48" title="MySQL"/>
   <img src="./assets/PostgreSQL.svg" height="48" title="PostgreSQL"/>
   <img src="./assets/SQLServer.svg" height="48" title="SQL Server"/>
-  <img src="./assets/SQLite.svg" height="48" title="SQLite"/>
-  <img src="./assets/Firebase.svg" height="48" title="Firebase"/>
-  <img src="./assets/DBeaver.svg" height="48" title="DBeaver"/>
+  <!-- <img src="./assets/SQLite.svg" height="48" title="SQLite"/> -->
+  <!-- <img src="./assets/Firebase.svg" height="48" title="Firebase"/> -->
+  <!-- <img src="./assets/DBeaver.svg" height="48" title="DBeaver"/> -->
 </p>
 
 ---

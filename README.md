@@ -17,7 +17,7 @@
 ### <img src="./assets/backend.gif" width="48"> Backend
 <p align="center">
   <img src="./assets/Java.svg" height="48" title="Java"/>
-  <img src="./assets/Spring.svg" height="48" title="Spring Boot"/>
+  <!-- <img src="./assets/Spring.svg" height="48" title="Spring Boot"/> -->
   <img src="./assets/Hibernate.svg" height="48" title="Hibernate"/>
   <img src="./assets/Apache-Maven.svg" height="48" title="Apache Maven"/>
   <img src="./assets/Apache-Tomcat.svg" height="48" title="Apache Tomcat"/>
@@ -45,7 +45,7 @@
   <img src="./assets/JavaScript.svg" height="48" title="JavaScript"/>
   <img src="./assets/Bootstrap.svg" height="48" title="Bootstrap"/>
   <img src="./assets/Tailwind.svg" height="48" title="Tailwind"/>
-  <img src="./assets/Angular.svg" height="48" title="Angular"/>
+  <!-- <img src="./assets/Angular.svg" height="48" title="Angular"/> -->
 </p>
 
 ---
@@ -78,8 +78,8 @@
 <p align="center">
   <img src="./assets/Figma.svg" height="48" title="Figma"/>
   <img src="./assets/Canva.svg" height="48" title="Canva"/>
-  <img src="./assets/Gimp.svg" height="48" title="Gimp"/>
-  <img src="./assets/Inkscape.svg" height="48" title="Inkscape"/>
+  <!-- <img src="./assets/Gimp.svg" height="48" title="Gimp"/> -->
+  <!-- <img src="./assets/Inkscape.svg" height="48" title="Inkscape"/> -->
 </p>
 
 #### DevOps

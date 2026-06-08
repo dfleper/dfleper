@@ -10,12 +10,11 @@
   <sub>⚠️ MASTER START — CTRL + CLICK</sub>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://portfolio-production-dd25.up.railway.app/" target="_blank" rel="noopener noreferrer">
     <img src="assets/portfolio.gif" alt="Portfolio" width="220">
   </a>
   <br>
-  <sub>⚠️ Portfolio — CTRL + CLICK</sub>
 </p>
 
 ---

@@ -28,7 +28,7 @@
   <img src="./assets/Hibernate.svg" height="48" title="Hibernate"/>
   <img src="./assets/Apache-Maven.svg" height="48" title="Apache Maven"/>
   <img src="./assets/Apache-Tomcat.svg" height="48" title="Apache Tomcat"/>
-  <img src="./assets/CSharp.svg" height="48" title="C#"/>
+  <!-- <img src="./assets/CSharp.svg" height="48" title="C#"/> -->
 </p>
 
 ---

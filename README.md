@@ -78,7 +78,7 @@
 <p align="center">
   <img src="./assets/Eclipse.svg" height="48" title="Eclipse"/>
   <img src="./assets/Visual-Studio-Code.svg" height="48" title="Visual Studio Code"/>
-  <img src="./assets/Visual-Studio.svg" height="48" title="Visual Studio"/>
+  <!-- <img src="./assets/Visual-Studio.svg" height="48" title="Visual Studio"/> -->
 </p>
 
 #### Diseño
@@ -92,7 +92,7 @@
 #### DevOps
 <p align="center">
   <img src="./assets/Docker.svg" height="48" title="Docker"/>
-  <img src="./assets/Azure-Devops.svg" height="48" title="Azure Devops"/>
+  <!-- <img src="./assets/Azure-Devops.svg" height="48" title="Azure Devops"/> -->
 </p>
 
 #### API

@@ -1,34 +1,41 @@
 <h2 align="center">👋 Hola, soy <strong>Domingo</strong></h2>
 <p align="center">💻 Desarrollador de Software</p>
-<p align="center">Busco mejorar en cada proyecto, cuidar los detalles y construir soluciones funcionales y bien ordenadas.</p>
+<!-- <p align="center">Busco mejorar en cada proyecto, cuidar los detalles y construir soluciones funcionales y bien ordenadas.</p> -->
+<p align="center">Desarrollador de software con experiencia profesional en mantenimiento y evolución de aplicaciones web con Java, C#, JavaScript y bases de datos SQL. Actualmente profundizando en Spring Boot y desarrollo web moderno.</p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://svelsys-demo.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="assets/start_button.gif" alt="START" width="220">
   </a>
   <br>
   <sub>⚠️ MASTER START — CTRL + CLICK</sub>
-</p>
+</p> -->
 
-<p align="left">
+<!-- <p align="left">
   <a href="https://portfolio-production-dd25.up.railway.app/" target="_blank" rel="noopener noreferrer">
     <img src="assets/portfolio.gif" alt="Portfolio" width="220">
   </a>
   <br>
-</p>
+</p> -->
 
 ---
 
 ## <img src="./assets/skills.gif" width="48"> Stack Tecnológico
 
-### <img src="./assets/backend.gif" width="48"> Backend
+**Experiencia profesional**  
+Java · JavaScript · C# · MySQL · PostGreSQL · SQL Server
+
+**Proyectos y aprendizaje**  
+Spring Boot · Spring Security · Thymeleaf · MariaDB · Flyway · OpenAPI · Docker · TypeScript
+
+<!-- ### <img src="./assets/backend.gif" width="48"> Backend
 <p align="center">
   <img src="./assets/Java.svg" height="48" title="Java"/>
-  <!-- <img src="./assets/Spring.svg" height="48" title="Spring Boot"/> -->
+  <img src="./assets/Spring.svg" height="48" title="Spring Boot"/>
   <img src="./assets/Hibernate.svg" height="48" title="Hibernate"/>
   <img src="./assets/Apache-Maven.svg" height="48" title="Apache Maven"/>
   <img src="./assets/Apache-Tomcat.svg" height="48" title="Apache Tomcat"/>
-  <!-- <img src="./assets/CSharp.svg" height="48" title="C#"/> -->
+  <img src="./assets/CSharp.svg" height="48" title="C#"/>
 </p>
 
 ---
@@ -38,9 +45,9 @@
   <img src="./assets/MySQL.svg" height="48" title="MySQL"/>
   <img src="./assets/PostgreSQL.svg" height="48" title="PostgreSQL"/>
   <img src="./assets/SQLServer.svg" height="48" title="SQL Server"/>
-  <!-- <img src="./assets/SQLite.svg" height="48" title="SQLite"/> -->
-  <!-- <img src="./assets/Firebase.svg" height="48" title="Firebase"/> -->
-  <!-- <img src="./assets/DBeaver.svg" height="48" title="DBeaver"/> -->
+  <img src="./assets/SQLite.svg" height="48" title="SQLite"/>
+  <img src="./assets/Firebase.svg" height="48" title="Firebase"/>
+  <img src="./assets/DBeaver.svg" height="48" title="DBeaver"/>
 </p>
 
 ---
@@ -52,7 +59,7 @@
   <img src="./assets/JavaScript.svg" height="48" title="JavaScript"/>
   <img src="./assets/Bootstrap.svg" height="48" title="Bootstrap"/>
   <img src="./assets/Tailwind.svg" height="48" title="Tailwind"/>
-  <!-- <img src="./assets/Angular.svg" height="48" title="Angular"/> -->
+  <img src="./assets/Angular.svg" height="48" title="Angular"/>
 </p>
 
 ---
@@ -78,21 +85,21 @@
 <p align="center">
   <img src="./assets/Eclipse.svg" height="48" title="Eclipse"/>
   <img src="./assets/Visual-Studio-Code.svg" height="48" title="Visual Studio Code"/>
-  <!-- <img src="./assets/Visual-Studio.svg" height="48" title="Visual Studio"/> -->
+  <img src="./assets/Visual-Studio.svg" height="48" title="Visual Studio"/>
 </p>
 
 #### Diseño
 <p align="center">
   <img src="./assets/Figma.svg" height="48" title="Figma"/>
   <img src="./assets/Canva.svg" height="48" title="Canva"/>
-  <!-- <img src="./assets/Gimp.svg" height="48" title="Gimp"/> -->
-  <!-- <img src="./assets/Inkscape.svg" height="48" title="Inkscape"/> -->
+  <img src="./assets/Gimp.svg" height="48" title="Gimp"/>
+  <img src="./assets/Inkscape.svg" height="48" title="Inkscape"/>
 </p>
 
 #### DevOps
 <p align="center">
   <img src="./assets/Docker.svg" height="48" title="Docker"/>
-  <!-- <img src="./assets/Azure-Devops.svg" height="48" title="Azure Devops"/> -->
+  <img src="./assets/Azure-Devops.svg" height="48" title="Azure Devops"/>
 </p>
 
 #### API
@@ -122,7 +129,7 @@
 ## <img src="./assets/business.gif" width="48"> Estadísticas
 <div align="center">
   
-  <!-- <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=dfleper&layout=donut&theme=github_dark&langs_count=8" height="165" /> -->
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=dfleper&layout=donut&theme=github_dark&langs_count=8" height="165" />
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dfleper&theme=tokyonight" height ="165" />
 
@@ -149,8 +156,9 @@
 - Constancia en cada proyecto
 - Ganas de mejorar continuamente 
 - Compromiso con la calidad del trabajo
-
+  
 ---
+-->
 
 ## <img src="./assets/project-initiation.gif" width="48"> Proyectos destacados
 

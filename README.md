@@ -250,7 +250,7 @@ Spring Boot · Spring Security · Thymeleaf · MariaDB · Flyway · OpenAPI · D
       </small>
     </td>
     </tr>
-    <tr>
+    <!-- <tr>
     <td width="50%" valign="top">
       <h3>MoodCode</h3>
       <div align="center">
@@ -271,7 +271,7 @@ Spring Boot · Spring Security · Thymeleaf · MariaDB · Flyway · OpenAPI · D
       </p>
       </small>
     </td>
-    </tr>
+    </tr> -->
 </table>
 
 ---

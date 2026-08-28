@@ -23,7 +23,7 @@
 ## <img src="./assets/skills.gif" width="48"> Stack Tecnológico
 
 **Experiencia profesional**  
-Java · JavaScript · C# · MySQL · PostGreSQL · SQL Server
+Java · JavaScript · C# · MySQL · PostgreSQL · SQL Server
 
 **Proyectos y aprendizaje**  
 Spring Boot · Spring Security · Thymeleaf · MariaDB · Flyway · OpenAPI · Docker · TypeScript
@@ -165,10 +165,10 @@ Spring Boot · Spring Security · Thymeleaf · MariaDB · Flyway · OpenAPI · D
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>TT2025</h3>
+      <h3>Turbo Taller</h3>
       <div align="center">
         <a href="https://github.com/dfleper/PRW-TT2025" target="_blank" rel="noopener noreferrer">
-          <img src="./screenshots/tt2025.png" alt="Preview TT2025" width="300">
+          <img src="./screenshots/tt2025.png" alt="Preview Turbo Taller" width="300">
         </a>
       </div>
       <br>
